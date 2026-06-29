@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Raj",
+        "age": 23,
+        "marks": 89.0,
+        "city": "Suart",
+        "joining_date": "15-06-2026"
+    },
+    {
+        "name": "Ved",
+        "age": 22,
+        "marks": 95.0,
+        "city": "Bharuch",
+        "joining_date": "20-05-2025"
+    },
+    {
+        "name": "Dixit",
+        "age": 21,
+        "marks": 78.0,
+        "city": "Valsad",
+        "joining_date": "01-02-2024"
+    },
+    {
+        "name": "Vivek",
+        "age": 28,
+        "marks": null,
+        "city": null,
+        "joining_date": "01-12-2020"
+    }
+]
